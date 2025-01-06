@@ -46,7 +46,7 @@ Technologies used
 ```bash
 $ git clone https://github.com/DevifyPro/nasa-react-app.git
 
-$ cd nasa-reace-app
+$ cd nasa-react-app
 ```
 
  - Create .env file with VITE_NASA_API_KEY
